@@ -1,0 +1,13 @@
+{
+  "name": "airlala",
+  "version": "0.0.0",
+  "description": "Hello Expo!",
+  "author": "hiepth9x",
+  "private": true,
+  "main": "main.js",
+  "dependencies": {
+    "expo": "17.0.0",
+    "react": "16.0.0-alpha.6",
+    "react-native": ""
+  }
+}
